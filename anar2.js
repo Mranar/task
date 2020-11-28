@@ -9,3 +9,4 @@ if (reversedstring === str){
     }    else {
         return false;
     }
+    console.log(checkReverse(anna))
